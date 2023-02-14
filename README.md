@@ -4,7 +4,17 @@
 
 [証明書ダウンロード](https://github.com/takumi3488/takumi3488/files/10004011/AWS.Certified.Solutions.Architect.-.Professional.certificate.pdf)
 
-## 活動状況
+## 制作物
 
-[![](https://raw.githubusercontent.com/takumi3488/takumi3488/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/takumi3488/takumi3488/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takumi3488/takumi3488/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Webアプリ
+
+- [Gatsbyで作成した個人ブログ](https://github.com/takumi3488/moritaki)
+
+### CLIツール/小規模ライブラリ
+
+- Rust
+  - [CSVをHTMLのtableタグやMarkdownのテーブル記法に変換するCLIツール](https://github.com/takumi3488/conv-rs)
+  - [AtCoderの補助ツール](https://github.com/takumi3488/acopen)
+  - [日本時間表示コマンド(ログ等用)](https://github.com/takumi3488/now)
+- Go
+  - [Dockerコンテナを使用ポートを使って操作するCLIツール](https://github.com/takumi3488/por)
