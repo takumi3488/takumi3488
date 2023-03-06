@@ -21,6 +21,7 @@
 ### CLIツール/小規模ライブラリ
 
 - Rust
+  - [メッセージキューイングアプリ](https://github.com/takumi3488/rusq) 
   - [CSVをHTMLのtableタグやMarkdownのテーブル記法に変換するCLIツール](https://github.com/takumi3488/conv-rs)
   - [AtCoderの補助ツール](https://github.com/takumi3488/acopen)
   - [日本時間表示コマンド(ログ等用)](https://github.com/takumi3488/now)
