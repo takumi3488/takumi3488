@@ -42,3 +42,10 @@
 - Terraform
 - Github Actions
 - その他Webアプリ開発における基本的な技術
+
+## 活動状況
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumi3488&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takumi3488&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takumi3488&theme=tokyonight)
