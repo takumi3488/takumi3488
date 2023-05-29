@@ -26,17 +26,43 @@
 
 ## 使用可能技術
 
+### プログラミング言語と主なライブラリ/フレームワーク
+
 - Go
+  - Gin, Echo
+  - ent, GORM
+  - Wire, dig
 - Rust
+  - Actix
+  - Clap
 - TypeScript
+  - React, Next.js
+  - NestJS
+  - Prisma
 - Ruby
+  - Rails
 - Python
+  - Flask, FastAPI
+  - BeautifulSoup4
+  - PyTorch
 - Julia
+  - LinearAlgebra, Plots
+
+### プログラミング言語以外の技術
+
 - Docker
-- AWS
-- GCP
+- Kubernetes, Knative
+- AWS, GCP
+  - Webアプリケーションを運用する上での基本的なサービスを、Well-Architected適切に選択,利用できる程度（全てのサービスについて熟知している訳ではないです）
 - Terraform
+- Vercel, Cloudflare, Netlify, Fastly
 - Github Actions
+- Hasura, Supabase
+- MongoDB
+- Redis, Momento
+- ArgoCD
+- PostgreSQL, MySQL, SQLite3
+  - Aurora, Neon, PlanetScale等、上記DB互換のマネージドサービスの利用経験もあり
 - その他Webアプリ開発における基本的な技術
 
 ## 活動状況
