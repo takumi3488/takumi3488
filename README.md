@@ -43,10 +43,13 @@
   - Rails
 - Python
   - Flask, FastAPI
+  - SQLModel
   - BeautifulSoup4
   - PyTorch
 - Julia
-  - LinearAlgebra, Plots
+  - LinearAlgebra
+  - Distributed
+  - Plots
 
 ### プログラミング言語以外の技術
 
