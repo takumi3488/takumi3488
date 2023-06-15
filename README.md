@@ -8,6 +8,19 @@
 
 [証明書ダウンロード](https://github.com/takumi3488/takumi3488/files/10004011/AWS.Certified.Solutions.Architect.-.Professional.certificate.pdf)
 
+## 興味・経験のある分野
+
+- Webアプリケーションの開発
+  - クラウドインフラ
+  - サーバーサイド
+  - Webフロントエンド
+  - JavaScript・Rustベースのデスクトップ・モバイルアプリ
+- 物理・化学を対象とした数値計算
+  - 局所密度近似
+　　 - 分散コンピューティングやGPU
+- 深層学習
+- 量子コンピューティング
+
 ## 制作物
 
 ### Webアプリ
