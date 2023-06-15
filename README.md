@@ -53,7 +53,7 @@
 - Docker
 - Kubernetes, Knative
 - AWS, GCP
-  - Webアプリケーションを運用する上での基本的なサービスを、Well-Architected適切に選択,利用できる程度（全てのサービスについて熟知している訳ではないです）
+  - Webアプリケーションを運用する上での基本的なサービスを、Well-Architectedに準って適切に選択,利用できる程度
 - Terraform
 - Vercel, Cloudflare, Netlify, Fastly
 - Github Actions
