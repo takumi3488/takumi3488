@@ -17,8 +17,8 @@
   - JavaScript・Rustベースのデスクトップ・モバイルアプリ
   - サーバーサイドWebAssembly
 - 物理・化学を対象とした数値計算
-  - 局所密度近似
-  - 分散コンピューティングやGPU
+  - 密度汎関数理論
+  - 分散コンピューティングやGPU計算
 - 深層学習
 - 量子コンピューティング
 
@@ -80,6 +80,8 @@
 - ArgoCD
 - PostgreSQL, MySQL, SQLite3
   - Aurora, Neon, PlanetScale等、上記DB互換のマネージドサービスの利用経験もあり
+- OpenAPI
+- GraphQL
 - その他Webアプリ開発における基本的な技術
 
 ## 活動状況
