@@ -47,11 +47,12 @@
   - ent, GORM
   - Wire, dig
 - Rust
-  - Actix
+  - Actix Web, Axum
   - Clap
 - TypeScript
   - React, Next.js
-  - NestJS
+  - React Server Components
+  - NestJS, Hono
   - Prisma
 - Ruby
   - Rails
