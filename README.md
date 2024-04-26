@@ -77,7 +77,8 @@
 - Terraform
 - Vercel, Cloudflare, Netlify, Fastly
 - Github Actions
-- Hasura, Supabase
+- Hasura
+- Supabase
 - MongoDB
 - Redis, Momento
 - ArgoCD
