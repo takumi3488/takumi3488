@@ -17,6 +17,7 @@
 - Rust
 - Go
 - TypeScript
+- Scala
 - Ruby
 - Python
 - Julia
