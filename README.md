@@ -12,15 +12,12 @@
 
 ## 使用可能技術
 
-### プログラミング言語と主なライブラリ/フレームワーク
+### プログラミング言語
 
 - Rust
 - Go
 - TypeScript
 - Scala
-- Ruby
-- Python
-- Julia
 - その他もろもろ
 
 ### プログラミング言語以外の技術
@@ -32,9 +29,10 @@
 - Terraform
 - Vercel, Cloudflare, Netlify, Fastly
 - Github Actions
-- Redis, Momento
+- Redis
 - PostgreSQL, MySQL, SQLite3
-  - Aurora, Neon, PlanetScale等、上記DB互換のマネージドサービスの利用経験もあり
+  - Aurora等、上記DB互換のマネージドサービスの利用経験もあり
+- Apache Kafka, Amazon SQS
 - OpenAPI, GraphQL, gRPC
 - その他Webアプリ開発における基本的な技術
 
