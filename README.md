@@ -15,8 +15,11 @@
 ### プログラミング言語
 
 - Rust
+  - https://github.com/takumi3488/rust_jwt_auth_with_login_page
 - Go
+  - https://github.com/takumi3488/dead-or-line
 - TypeScript
+  - https://github.com/takumi3488/simple-kvs
 - Scala
 - その他もろもろ
 
