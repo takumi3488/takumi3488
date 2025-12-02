@@ -10,36 +10,6 @@
 
 [証明書ダウンロード](https://github.com/takumi3488/takumi3488/files/10004011/AWS.Certified.Solutions.Architect.-.Professional.certificate.pdf)
 
-## 使用可能技術
-
-### プログラミング言語
-
-- Rust
-  - https://github.com/takumi3488/release-date-sorter
-  - https://github.com/takumi3488/rust_jwt_auth_with_login_page
-- Go
-  - https://github.com/takumi3488/dead-or-line
-- TypeScript
-  - https://github.com/takumi3488/simple-kvs
-- Scala
-- その他もろもろ
-
-### プログラミング言語以外の技術
-
-- Docker
-- Kubernetes, Knative, ArgoCD (Image Updater)
-- AWS, GCP
-  - Webアプリケーションを運用する上での基本的なサービスを、Well-Architectedに準って適切に選択,利用できる
-- Terraform
-- Vercel, Cloudflare, Netlify, Fastly
-- Github Actions
-- Redis
-- PostgreSQL, MySQL, SQLite3
-  - Aurora等、上記DB互換のマネージドサービスの利用経験もあり
-- Apache Kafka, Amazon SQS
-- OpenAPI, GraphQL, gRPC
-- その他Webアプリ開発における基本的な技術
-
 ## 活動状況
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumi3488&theme=tokyonight)
