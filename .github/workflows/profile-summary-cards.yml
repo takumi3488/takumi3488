@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-      - uses: vn7n24fzkq/github-profile-summary-cards@eda120aff352e7438ecf2b3a67e7eda2deb9fe2a # release
+      - uses: vn7n24fzkq/github-profile-summary-cards@ccf85b0ff964caab85d4660b3edecbe66838874c # release
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
