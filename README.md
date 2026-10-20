@@ -16,3 +16,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takumi3488&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takumi3488&theme=tokyonight)
+
+## スポンサー
+
+OSSの開発・メンテナンスを支援していただける方は、[GitHub Sponsors](https://github.com/sponsors/takumi3488)をご検討ください。
